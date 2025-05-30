@@ -1,77 +1,77 @@
- # 👋 مرحباً، أنا أحمد فوزي جلال
+   # 👋 Hello, I'm Ahmed Fawzy Jalal
 
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedFawezy&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/AhmedFawezy?style=social)](https://github.com/AhmedFawezy)
 
-**مطور تطبيقات أندرويد | مصمم ومبرمج**
+**Android App Developer | Designer & Programmer**
 
 </div>
 
 ---
 
-## 👨‍💻 نبذة عني
+## 👨‍💻 About Me
 
-أنا **أحمد فوزي جلال**، مطور تطبيقات أندرويد محترف ومحب للتصميم والبرمجة. أتمتع بخبرة واسعة في تطوير التطبيقات باستخدام تقنيات متعددة وأسعى دائماً لتقديم حلول برمجية **مبتكرة وفعّالة**. 
+I'm **Ahmed Fawzy Jalal**, a professional Android app developer with a passion for design and programming. I have extensive experience in app development using multiple technologies and always strive to deliver **innovative and efficient** software solutions.
 
-شغفي الكبير بتطوير تطبيقات الهواتف الذكية يدفعني لاستكشاف أحدث التقنيات وتجربة أفكار جديدة في عالم التطوير.
+My great passion for mobile app development drives me to explore the latest technologies and experiment with new ideas in the development world.
 
 ---
 
-## 🚀 المهارات والتقنيات
+## 🚀 Skills & Technologies
 
-### لغات البرمجة
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### تطوير التطبيقات
+### App Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### التصميم
+### Design
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🎯 التخصصات
+## 🎯 Specializations
 
 <table>
 <tr>
 <td width="50%">
 
-### 📱 تطوير تطبيقات الأندرويد
-- تطوير تطبيقات أندرويد متقدمة باستخدام Java
-- استخدام أحدث التقنيات والمكتبات
-- تحسين الأداء وتجربة المستخدم
+### 📱 Android App Development
+- Advanced Android app development using Java
+- Utilizing the latest technologies and libraries
+- Performance optimization and user experience enhancement
 
 </td>
 <td width="50%">
 
-### 🎨 التصميم والواجهات
-- تصميم واجهات مستخدم جذابة
-- تطبيق مبادئ Material Design
-- تجربة مستخدم سهلة ومريحة
+### 🎨 Design & Interfaces
+- Attractive user interface design
+- Implementing Material Design principles
+- Easy and comfortable user experience
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💡 الحلول المبتكرة
-- تطوير أفكار جديدة ومبتكرة
-- حلول برمجية إبداعية
-- التفكير خارج الصندوق
+### 💡 Innovative Solutions
+- Developing new and innovative ideas
+- Creative software solutions
+- Out-of-the-box thinking
 
 </td>
 <td width="50%">
 
-### ⚡ التعلم المستمر
-- مواكبة أحدث التقنيات
-- تطوير المهارات باستمرار
-- البحث والتجريب المستمر
+### ⚡ Continuous Learning
+- Keeping up with the latest technologies
+- Continuously developing skills
+- Ongoing research and experimentation
 
 </td>
 </tr>
@@ -79,21 +79,21 @@
 
 ---
 
-## 📊 إحصائيات GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedFawezy&show_icons=true&theme=tokyonight&hide_border=true&locale=ar)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedFawezy&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFawezy&layout=compact&theme=tokyonight&hide_border=true&locale=ar)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFawezy&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedFawezy&theme=tokyonight&hide_border=true&locale=ar)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedFawezy&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 الإنجازات
+## 🏆 Achievements
 
 <div align="center">
   
@@ -103,7 +103,7 @@
 
 ---
 
-## 📫 التواصل معي
+## 📫 Contact Me
 
 <div align="center">
 
@@ -114,13 +114,13 @@
 
 ---
 
-## 🌟 رسالة أخيرة
+## 🌟 Final Message
 
-> "البرمجة ليست مجرد كتابة كود، بل هي فن خلق الحلول وتحويل الأفكار إلى واقع رقمي يخدم الناس ويسهل حياتهم."
+> "Programming is not just about writing code; it's the art of creating solutions and turning ideas into digital reality that serves people and makes their lives easier."
 
 <div align="center">
 
-**شكراً لزيارة ملفي الشخصي! 🚀**
+**Thanks for visiting my profile! 🚀**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
