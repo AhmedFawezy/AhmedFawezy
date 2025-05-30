@@ -1,73 +1,127 @@
-# مرحبًا، أنا أحمد فوزي جلال 👋  
-<div align="center">  
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="غلاف" />  
-</div>  
+  # 👋 Hello, I'm Ahmed Fawzy Jalal
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedFawezy&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/AhmedFawezy?style=social)](https://github.com/AhmedFawezy)
+
+**Android App Developer | Designer & Programmer**
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Ahmed Fawzy Jalal**, a professional Android app developer with a passion for design and programming. I have extensive experience in app development using multiple technologies and always strive to deliver **innovative and efficient** software solutions.
+
+My great passion for mobile app development drives me to explore the latest technologies and experiment with new ideas in the development world.
+
+---
+
+## 🚀 Skills & Technologies
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### App Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### Design
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🎯 Specializations
 
 <table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>لغات البرمجة وأطر العمل</strong></span>
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
-      </td>
-    </tr>
-  </tbody>
-</table>  
+<tr>
+<td width="50%">
 
-## عني  
-أنا أحمد فوزي جلال، من محبي التصميم والبرمجة، ومطور تطبيقات أندرويد.  
-أبرمج باستخدام **Java**، **JavaScript**، **Python**، و**Lua**، ولديّ شغف كبير في تطوير تطبيقات الهواتف الذكية وتجربة أفكار جديدة ومبتكرة.  
-أسعى دائمًا لتعلم المهارات الحديثة وتقديم حلول برمجية فعّالة.  
+### 📱 Android App Development
+- Advanced Android app development using Java
+- Utilizing the latest technologies and libraries
+- Performance optimization and user experience enhancement
 
-## إحصائياتي على GitHub  
-<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">  
-  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />  
-</a>  
-<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="إحصائياتي على GitHub" />  
-</a>  
+</td>
+<td width="50%">
 
-<p>
-  <b>للمزيد من المعلومات حول GitHub</b>  
-  <a href="https://gitprofilee.netlify.app/user?id=oussamabouchikhi">تحقق من هذا</a>
-</p>  
+### 🎨 Design & Interfaces
+- Attractive user interface design
+- Implementing Material Design principles
+- Easy and comfortable user experience
 
-## شاراتي  
-[![لوحة هولوبين لـoussamabouchikhi](https://holopin.io/api/user/board?user=oussamabouchikhi)](https://www.holopin.io/@oussamabouchikhi)  
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-[!["اشتر لي قهوة"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)  
+### 💡 Innovative Solutions
+- Developing new and innovative ideas
+- Creative software solutions
+- Out-of-the-box thinking
 
-## اتبعني  
-<div align="center">  
-  <!-- قم بتعديل الروابط الخاصة بك -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
-  </a>  
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-%231877F2.svg?&style=flat-square&logo=fiverr&logoColor=white&color=071A2C" alt="Fiverr">
-  </a>  
+</td>
+<td width="50%">
+
+### ⚡ Continuous Learning
+- Keeping up with the latest technologies
+- Continuously developing skills
+- Ongoing research and experimentation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedFawezy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFawezy&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedFawezy&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmedFawezy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedFawezy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+## 🌟 Final Message
+
+> "Programming is not just about writing code; it's the art of creating solutions and turning ideas into digital reality that serves people and makes their lives easier."
+
+<div align="center">
+
+**Thanks for visiting my profile! 🚀**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 </div>
