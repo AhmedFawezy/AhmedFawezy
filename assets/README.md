@@ -1,4 +1,4 @@
-  # 👋 Hello, I'm Ahmed Fawzy Jalal
+  # 👋 Hello, I'm Ahmed Fawzey Jalal
 
 <div align="center">
   
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ahmed Fawzy Jalal**, a professional Android app developer with a passion for design and programming. I have extensive experience in app development using multiple technologies and always strive to deliver **innovative and efficient** software solutions.
+I'm **Ahmed Fawzey Jalal**, a professional Android app developer with a passion for design and programming. I have extensive experience in app development using multiple technologies and always strive to deliver **innovative and efficient** software solutions.
 
 My great passion for mobile app development drives me to explore the latest technologies and experiment with new ideas in the development world.
 
