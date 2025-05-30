@@ -1,73 +1,287 @@
-# مرحبًا، أنا أحمد فوزي جلال 👋  
-<div align="center">  
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="غلاف" />  
-</div>  
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أحمد فوزي جلال - مطور تطبيقات أندرويد</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>لغات البرمجة وأطر العمل</strong></span>
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
-      </td>
-    </tr>
-  </tbody>
-</table>  
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            line-height: 1.6;
+        }
 
-## عني  
-أنا أحمد فوزي جلال، من محبي التصميم والبرمجة، ومطور تطبيقات أندرويد.  
-أبرمج باستخدام **Java**، **JavaScript**، **Python**، و**Lua**، ولديّ شغف كبير في تطوير تطبيقات الهواتف الذكية وتجربة أفكار جديدة ومبتكرة.  
-أسعى دائمًا لتعلم المهارات الحديثة وتقديم حلول برمجية فعّالة.  
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(20px);
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            overflow: hidden;
+            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+        }
 
-## إحصائياتي على GitHub  
-<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">  
-  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />  
-</a>  
-<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="إحصائياتي على GitHub" />  
-</a>  
+        .header {
+            background: linear-gradient(45deg, #ff6b6b, #feca57);
+            padding: 40px;
+            text-align: center;
+            color: white;
+            position: relative;
+            overflow: hidden;
+        }
 
-<p>
-  <b>للمزيد من المعلومات حول GitHub</b>  
-  <a href="https://gitprofilee.netlify.app/user?id=oussamabouchikhi">تحقق من هذا</a>
-</p>  
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: repeating-linear-gradient(
+                45deg,
+                transparent,
+                transparent 2px,
+                rgba(255, 255, 255, 0.1) 2px,
+                rgba(255, 255, 255, 0.1) 4px
+            );
+            animation: movePattern 20s linear infinite;
+        }
 
-## شاراتي  
-[![لوحة هولوبين لـoussamabouchikhi](https://holopin.io/api/user/board?user=oussamabouchikhi)](https://www.holopin.io/@oussamabouchikhi)  
+        @keyframes movePattern {
+            0% { transform: translateX(-50px) translateY(-50px); }
+            100% { transform: translateX(50px) translateY(50px); }
+        }
 
-[!["اشتر لي قهوة"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)  
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            margin: 0 auto 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 60px;
+            color: white;
+            position: relative;
+            z-index: 1;
+            border: 5px solid rgba(255, 255, 255, 0.3);
+            animation: pulse 2s ease-in-out infinite alternate;
+        }
 
-## اتبعني  
-<div align="center">  
-  <!-- قم بتعديل الروابط الخاصة بك -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
-  </a>  
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-%231877F2.svg?&style=flat-square&logo=fiverr&logoColor=white&color=071A2C" alt="Fiverr">
-  </a>  
-</div>
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            100% { transform: scale(1.05); }
+        }
+
+        .name {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 1;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .title {
+            font-size: 1.3em;
+            opacity: 0.9;
+            position: relative;
+            z-index: 1;
+        }
+
+        .content {
+            padding: 40px;
+            color: white;
+        }
+
+        .section {
+            margin-bottom: 40px;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 30px;
+            border-radius: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .section h2 {
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            color: #feca57;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .skill-card {
+            background: linear-gradient(45deg, #ff6b6b, #feca57);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            transition: transform 0.3s ease;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .skill-card:nth-child(even) {
+            animation-delay: 1.5s;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .skill-card:hover {
+            transform: scale(1.1) rotate(5deg);
+        }
+
+        .contact-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .contact-item {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: background 0.3s ease;
+        }
+
+        .contact-item:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .icon {
+            font-size: 1.5em;
+            margin-left: 10px;
+        }
+
+        .description {
+            font-size: 1.1em;
+            line-height: 1.8;
+            text-align: justify;
+        }
+
+        .highlight {
+            color: #feca57;
+            font-weight: bold;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+            }
+            
+            .header {
+                padding: 30px 20px;
+            }
+            
+            .name {
+                font-size: 2em;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+            
+            .skills-grid {
+                grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="profile-img">أ.ف</div>
+            <h1 class="name">أحمد فوزي جلال</h1>
+            <p class="title">مطور تطبيقات أندرويد | مصمم ومبرمج</p>
+        </div>
+
+        <div class="content">
+            <div class="section">
+                <h2><span class="icon">👨‍💻</span>نبذة عني</h2>
+                <p class="description">
+                    أنا <span class="highlight">أحمد فوزي جلال</span>، مطور تطبيقات أندرويد محترف ومحب للتصميم والبرمجة. 
+                    أتمتع بخبرة واسعة في تطوير التطبيقات باستخدام تقنيات متعددة وأسعى دائماً لتقديم حلول برمجية 
+                    <span class="highlight">مبتكرة وفعّالة</span>. شغفي الكبير بتطوير تطبيقات الهواتف الذكية يدفعني 
+                    لاستكشاف أحدث التقنيات وتجربة أفكار جديدة في عالم التطوير.
+                </p>
+            </div>
+
+            <div class="section">
+                <h2><span class="icon">🚀</span>المهارات والتقنيات</h2>
+                <div class="skills-grid">
+                    <div class="skill-card">Java</div>
+                    <div class="skill-card">JavaScript</div>
+                    <div class="skill-card">Python</div>
+                    <div class="skill-card">Lua</div>
+                    <div class="skill-card">Android</div>
+                    <div class="skill-card">تصميم UI/UX</div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2><span class="icon">🎯</span>التخصصات</h2>
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <h3>📱 تطوير تطبيقات الأندرويد</h3>
+                        <p>تطوير تطبيقات أندرويد متقدمة باستخدام Java وأحدث التقنيات</p>
+                    </div>
+                    <div class="contact-item">
+                        <h3>🎨 التصميم والواجهات</h3>
+                        <p>تصميم واجهات مستخدم جذابة وسهلة الاستخدام</p>
+                    </div>
+                    <div class="contact-item">
+                        <h3>💡 الحلول المبتكرة</h3>
+                        <p>تطوير أفكار جديدة وحلول برمجية إبداعية</p>
+                    </div>
+                    <div class="contact-item">
+                        <h3>⚡ التعلم المستمر</h3>
+                        <p>مواكبة أحدث التقنيات والمهارات الحديثة في البرمجة</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2><span class="icon">📫</span>التواصل</h2>
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <h3>🐙 GitHub</h3>
+                        <p><a href="https://github.com/AhmedFawezy" style="color: #feca57; text-decoration: none;">github.com/AhmedFawezy</a></p>
+                    </div>
+                    <div class="contact-item">
+                        <h3>📧 البريد الإلكتروني</h3>
+                        <p>للتواصل المهني والاستفسارات</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
