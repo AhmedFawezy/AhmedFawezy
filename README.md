@@ -1,4 +1,4 @@
-   # 👋 Hello, I'm Ahmed Fawzy Jalal
+   # 👋 Hello, I'm Ahmed Fawzey Jalal
 
 <div align="center">
   
