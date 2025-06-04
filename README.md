@@ -1,7 +1,7 @@
    # 👋 Hello, I'm Ahmed Fawzey Jalal
 <table style="width:100%">
   <tr>
-    <td><img src="/AhmedFawezy/preview/ggg.gif"/></th>
+    <td><img src="AhmedFawezy/preview/ggg.gif"/></th>
  
   </tr>
 </table>
